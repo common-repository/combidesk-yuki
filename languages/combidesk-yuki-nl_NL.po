@@ -1,0 +1,144 @@
+# Copyright (C) 2023 combidesk-yuki
+# This file is distributed under the same license as the combidesk-yuki package.
+msgid ""
+msgstr ""
+"Project-Id-Version: combidesk-yuki\n"
+"POT-Creation-Date: 2023-05-01 11:55+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: dist\n"
+
+#: classes/class-application.php:17
+msgid "Yuki"
+msgstr ""
+
+#: classes/class-application.php:18
+#, php-format
+msgid "Combidesk - %s for WooCommerce"
+msgstr "Combidesk - %s voor WooCommerce"
+
+#: classes/class-application.php:19
+#, php-format
+msgid "Combidesk - %s"
+msgstr ""
+
+#: classes/class-application.php:22
+msgid "Synchronize your WooCommerce orders automatically to Yuki"
+msgstr "WooCommerce-bestellingen worden automatisch gesynchroniseerd met Yuki"
+
+#: classes/class-application.php:73
+#, php-format
+msgid ""
+"With this integration you never have to transfer order data from WooCommerce "
+"to %s again. As a result, your data is always up-to-date, error-free and you "
+"have time to do what you do best!"
+msgstr ""
+"Met deze integratie hoef je nooit meer bestelgegevens over te zetten van "
+"WooCommerce naar %s. Hierdoor zijn uw gegevens altijd up-to-date, foutloos "
+"en heeft u tijd om te doen waar u goed in bent."
+
+#: classes/class-application.php:75
+msgid "Key features"
+msgstr "Belangrijkste kenmerken"
+
+#: classes/class-application.php:77
+msgid "This integration syncs every 60 minutes."
+msgstr "Deze integratie wordt elke 60 minuten gesynchroniseerd."
+
+#: classes/class-application.php:78
+#, php-format
+msgid "WooCommerce orders are automatically synced to %s."
+msgstr "WooCommerce-bestellingen worden automatisch gesynchroniseerd met %s."
+
+#: classes/class-application.php:79
+#, php-format
+msgid ""
+"Customers in WooCommerce are created as a debtor in %s based on the email "
+"address."
+msgstr ""
+"Klanten in WooCommerce worden op basis van het e-mailadres aangemaakt als "
+"debiteur in %s."
+
+#: classes/class-application.php:80
+msgid "Determine when you want to sync based on the order status."
+msgstr "Bepaal op basis van de orderstatus wanneer je wilt synchroniseren."
+
+#: classes/class-application.php:81
+msgid "The income statement and VAT return are updated immediately."
+msgstr "De resultatenrekening en btw-aangifte worden direct bijgewerkt."
+
+#: classes/class-application.php:82
+#, php-format
+msgid ""
+"Existing orders will be transferred from WooCommerce to your %s account "
+"(paid functionality)."
+msgstr ""
+"Bestaande bestellingen worden vanuit WooCommerce overgezet naar je %s-"
+"account (betaalde functionaliteit)."
+
+#: classes/class-application.php:83
+msgid ""
+"Order information products (product name, quantity, amount of the order line "
+"and VAT) and shipping costs are taken over."
+msgstr ""
+"Bestelinformatie producten (productnaam, aantal, bedrag van de orderregel en "
+"BTW) en verzendkosten worden overgenomen."
+
+#: classes/class-application.php:84
+msgid "Discounts, both discount codes and cart discounts are included."
+msgstr ""
+"Kortingen, zowel kortingscodes als winkelwagenkortingen zijn inbegrepen."
+
+#: classes/class-application.php:85
+msgid "One-Stop Shop suitable."
+msgstr "One-Stop Shop geschikt."
+
+#: classes/class-application.php:86
+msgid "Separate article code for Shipping costs and Costs."
+msgstr "Aparte artikelcode voor Verzendkosten en Kosten."
+
+#: classes/class-application.php:87
+msgid "Standard general ledger account for products."
+msgstr "Standaard grootboekrekening voor producten."
+
+#: classes/class-application.php:88
+#, php-format
+msgid "WooCommerce VAT rates link to %s VAT rates."
+msgstr "WooCommerce btw-tarieven koppeling op %s btw-tarieven."
+
+#: classes/class-application.php:89
+msgid "Install multiple times at multiple administrations."
+msgstr "Installeer meerdere keren bij meerdere administraties."
+
+#: classes/class-application.php:90
+#, php-format
+msgid ""
+"Use %s as an affordable and simple accounting software. We recommend that "
+"billing be done from WooCommerce."
+msgstr ""
+"Gebruik %s als betaalbaar en eenvoudig boekhoudpakket. Wij adviseren om de "
+"facturatie vanuit WooCommerce te laten verlopen."
+
+#: classes/class-application.php:96
+msgid "Install this integration"
+msgstr "Begin met koppelen"
+
+#: classes/class-application.php:105
+#, php-format
+msgid "No %s account yet?"
+msgstr "Nog geen %s account?"
